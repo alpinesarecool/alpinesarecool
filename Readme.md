@@ -1,4 +1,4 @@
-Here are a few projects that shaped my learning
+Here are a few hobby projects that shaped my learning
 - [Gem to measure code coverage for changes in a feature branch](https://github.com/alpinesarecool/speccloak)
 - [Here are a few blogs that I have published](https://blog.incubyte.co/authors/nitin-rajkumar/)
 - [A physical book sharing app](https://github.com/451fahrenheit)
