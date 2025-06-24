@@ -1,5 +1,5 @@
 Here are a few projects that shaped my learning
-- [Branch Code coverage](https://github.com/alpinesarecool/speccloak)
+- [Gem to measure code coverage for changes in a feature branch](https://github.com/alpinesarecool/speccloak)
 - [A physical book sharing app](https://github.com/451fahrenheit)
 - [A board game](https://github.com/alpinesarecool/looper)
 - [App for hackathon assessment using AI](https://github.com/alpinesarecool/metpune)
